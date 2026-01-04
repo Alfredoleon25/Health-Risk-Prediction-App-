@@ -6,11 +6,11 @@ A web application that predicts diseases based on a patient's condition using th
 
 ## Project Structure
 
-Health-Risk-Prediction-App/
-│
-├── backend/ # Node.js + Express + PostgreSQL backend
-├── frontend/ # React frontend
-└── delphi-model/ # Delphi 2M model for disease prediction
+### Health-Risk-Prediction-App/
+
+- backend/ # Node.js + Express + PostgreSQL backend
+- frontend/ # React frontend
+- delphi-model/ # Delphi 2M model for disease prediction
 
 
 ---
