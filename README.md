@@ -43,7 +43,7 @@ Health-Risk-Prediction-App/
 ### Installation
 
 1. **Clone the repository**
-```bash
+bash
 git clone <your-repo-url>
 cd project-root
 
@@ -62,7 +62,7 @@ npm start
 cd delphi-model
 # Instructions to run the Delphi 2M model
 
-
+---
 
 ###Usage
 Open the frontend in your browser (usually at http://localhost:3000).
@@ -70,7 +70,7 @@ Enter patient details in the form.
 Submit the form to get a predicted disease.
 Backend communicates with the Delphi 2M model to provide the prediction.
 
-Contributing
+###Contributing
 Fork the repository.
 Create a new branch: git checkout -b feature-name
 Make your changes and commit: git commit -m "Description of changes"
