@@ -40,7 +40,7 @@ Health-Risk-Prediction-App/
 - PostgreSQL >= 12.x
 - npm or yarn
 
-### Installation
+## Installation
 
 1. **Clone the repository**
 bash
@@ -61,8 +61,6 @@ npm start
 4. **Setup Delphi Model**
 cd delphi-model
 # Instructions to run the Delphi 2M model
-
----
 
 ###Usage
 Open the frontend in your browser (usually at http://localhost:3000).
