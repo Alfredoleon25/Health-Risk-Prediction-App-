@@ -50,7 +50,7 @@ cd project-root
 2. **Setup Backend**
 cd backend
 npm install
-# Create a .env file and add your database credentials
+### Create a .env file and add your database credentials
 npm run dev
 
 3. **Setup Frontend**
@@ -60,15 +60,15 @@ npm start
 
 4. **Setup Delphi Model**
 cd delphi-model
-# Instructions to run the Delphi 2M model
+## Instructions to run the Delphi 2M model
 
-###Usage
+### Usage
 Open the frontend in your browser (usually at http://localhost:3000).
 Enter patient details in the form.
 Submit the form to get a predicted disease.
 Backend communicates with the Delphi 2M model to provide the prediction.
 
-###Contributing
+### Contributing
 Fork the repository.
 Create a new branch: git checkout -b feature-name
 Make your changes and commit: git commit -m "Description of changes"
