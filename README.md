@@ -5,6 +5,7 @@ A web application that predicts diseases based on a patient's condition using th
 ---
 
 ## Project Structure
+
 Health-Risk-Prediction-App/
 │
 ├── backend/ # Node.js + Express + PostgreSQL backend
